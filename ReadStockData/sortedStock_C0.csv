@@ -1,0 +1,512 @@
+ID,Name,Category,Quantity,Price
+1,Printer,Accessories,34,988.86
+2,Bookshelf,Electronics,72,817.88
+3,Scarf,Clothing,87,756.68
+4,Mouse,Electronics,93,485.89
+5,Pillow,Electronics,84,726.19
+6,Mouse,Clothing,58,730.05
+7,Backpack,Accessories,56,979.13
+8,Memory Card,Household,98,51.09
+9,Television,Accessories,36,809.42
+10,Tablet,Household,87,872.71
+11,Sunglasses,Electronics,7,898.95
+12,Chair,Accessories,72,839.62
+13,Headphones,Electronics,100,667.19
+14,Pants,Household,3,798.54
+15,USB Cable,Accessories,67,485.66
+16,Table,Accessories,92,133.90
+17,Headphones,Household,22,486.04
+18,Speaker,Household,24,160.18
+19,Charger,Electronics,26,321.78
+20,Router,Household,12,284.52
+21,USB Cable,Clothing,28,958.89
+22,Cushion,Clothing,80,18.19
+23,Table,Clothing,37,385.02
+24,Game Console,Accessories,33,512.91
+25,Blanket,Accessories,91,921.94
+26,Smartwatch,Accessories,59,264.70
+27,Headphones,Accessories,42,47.43
+28,Television,Clothing,18,700.83
+29,Monitor,Electronics,70,226.45
+30,Scarf,Clothing,89,386.28
+31,Router,Clothing,20,410.87
+32,Mirror,Household,51,762.91
+33,Chair,Household,45,30.70
+34,Belt,Clothing,68,141.90
+35,Ring,Clothing,52,14.92
+36,Watch,Accessories,65,795.53
+37,Umbrella,Clothing,10,67.81
+38,Chair,Household,21,523.34
+39,Rug,Household,55,695.07
+40,Table,Electronics,6,133.29
+41,Hard Drive,Clothing,76,594.65
+42,Curtains,Clothing,68,668.76
+43,Shoes,Household,57,284.59
+44,Smartphone,Clothing,25,989.44
+45,Scarf,Household,96,918.13
+46,Fan,Electronics,97,238.15
+47,Backpack,Accessories,56,432.65
+48,Lamp,Clothing,48,353.80
+49,Sunglasses,Accessories,54,155.88
+50,Ring,Clothing,98,361.05
+51,Monitor,Household,51,932.76
+52,Tablet,Accessories,92,943.51
+53,Fan,Accessories,32,263.21
+54,Tablet,Electronics,32,311.76
+55,Shirt,Electronics,98,141.30
+56,Camera,Clothing,95,999.85
+57,USB Cable,Electronics,50,156.16
+58,Pillow,Clothing,63,939.89
+59,Necklace,Clothing,82,725.84
+60,Blanket,Clothing,91,676.76
+61,Cushion,Household,86,807.42
+62,Rug,Electronics,42,921.03
+63,Camera,Accessories,22,669.57
+64,Jacket,Electronics,65,331.55
+65,Camera,Accessories,80,577.80
+66,Scarf,Electronics,68,633.27
+67,Socks,Clothing,29,113.35
+68,Power Bank,Clothing,37,690.53
+69,Scarf,Household,9,377.95
+70,Keyboard,Accessories,88,904.66
+71,Charger,Accessories,64,824.13
+72,Monitor,Household,99,185.32
+73,Flash Drive,Accessories,48,905.21
+74,Handbag,Clothing,76,708.86
+75,Tablet,Clothing,80,311.09
+76,Blanket,Accessories,76,631.40
+77,Mirror,Electronics,46,555.51
+78,Pants,Accessories,10,762.72
+79,Hard Drive,Electronics,16,483.09
+80,Laptop,Household,91,318.46
+81,Router,Electronics,92,325.34
+82,Clock,Clothing,50,750.85
+83,Memory Card,Clothing,9,257.95
+84,Backpack,Household,89,800.05
+85,Pillow,Household,88,260.72
+86,Backpack,Clothing,44,875.90
+87,Smartwatch,Electronics,95,341.08
+88,Watch,Household,75,584.54
+89,Suitcase,Household,48,715.15
+90,Suitcase,Household,79,616.62
+91,Necklace,Accessories,89,24.22
+92,Umbrella,Household,7,243.58
+93,Fan,Accessories,46,796.06
+94,Mouse,Electronics,4,931.34
+95,Hat,Accessories,49,991.17
+96,Clock,Clothing,32,451.14
+97,Clock,Electronics,61,125.27
+98,Smartwatch,Clothing,25,837.98
+99,Vase,Accessories,53,824.19
+100,Backpack,Clothing,8,256.08
+101,Earrings,Accessories,86,144.70
+102,Handbag,Clothing,97,949.21
+103,Handbag,Electronics,70,889.45
+104,Hard Drive,Electronics,56,661.71
+105,Suitcase,Accessories,25,161.73
+106,Power Bank,Accessories,97,467.18
+107,Mirror,Clothing,59,142.22
+108,Pillow,Clothing,43,855.06
+109,Router,Electronics,54,661.08
+110,Shirt,Clothing,69,617.79
+111,Socks,Clothing,55,870.38
+112,Vase,Electronics,22,289.42
+113,Smartphone,Accessories,94,890.71
+114,Charger,Electronics,30,9.34
+115,Power Bank,Accessories,20,619.60
+116,Tablet,Clothing,56,201.04
+117,Umbrella,Household,43,651.77
+118,Headphones,Clothing,31,864.45
+119,Lamp,Household,4,284.30
+120,Umbrella,Clothing,82,33.58
+121,Flash Drive,Accessories,20,646.78
+122,Sunglasses,Accessories,54,131.10
+123,Clock,Accessories,81,267.76
+124,Monitor,Household,59,983.16
+125,Laptop,Household,44,741.07
+126,Necklace,Electronics,57,715.79
+127,Mouse,Household,29,512.68
+128,Ring,Electronics,18,367.84
+129,Bookshelf,Household,94,410.66
+130,Towel,Electronics,52,288.94
+131,Handbag,Electronics,61,274.31
+132,Gloves,Electronics,36,505.48
+133,Shoes,Household,1,342.43
+134,Cushion,Electronics,80,532.68
+135,Wallet,Clothing,38,583.26
+136,Speaker,Electronics,78,64.50
+137,Laptop,Clothing,61,240.41
+138,Keyboard,Electronics,4,281.49
+139,Table,Accessories,70,149.26
+140,Monitor,Electronics,96,577.04
+141,Sunglasses,Clothing,73,14.70
+142,Rug,Electronics,38,644.18
+143,Tablet,Clothing,29,853.47
+144,Socks,Household,88,690.61
+145,Rug,Electronics,46,588.14
+146,Hard Drive,Accessories,72,996.31
+147,Hard Drive,Electronics,97,221.87
+148,Lamp,Clothing,22,332.95
+149,Fan,Electronics,6,971.62
+150,Smartphone,Clothing,14,249.22
+151,Ring,Clothing,68,259.45
+152,Power Bank,Accessories,12,898.94
+153,Jacket,Clothing,70,214.54
+154,Bookshelf,Household,14,294.70
+155,Cushion,Household,4,542.24
+156,Shirt,Household,94,794.52
+157,Headphones,Clothing,85,533.32
+158,Wallet,Clothing,71,205.76
+159,Rug,Household,38,437.28
+160,Hat,Accessories,8,720.75
+161,Charger,Clothing,65,824.61
+162,Headphones,Household,35,57.16
+163,Hard Drive,Household,79,67.13
+164,USB Cable,Accessories,93,313.40
+165,Handbag,Accessories,89,860.54
+166,Shoes,Clothing,99,984.49
+167,Backpack,Electronics,68,113.92
+168,Curtains,Household,76,607.43
+169,Sunglasses,Electronics,61,490.15
+170,Smartwatch,Clothing,89,897.54
+171,Hard Drive,Electronics,30,615.89
+172,Jacket,Clothing,65,37.80
+173,Earrings,Accessories,87,895.13
+174,Mirror,Accessories,30,627.48
+175,Bracelet,Household,2,537.39
+176,Gloves,Clothing,23,664.18
+177,Printer,Accessories,14,398.42
+178,Tablet,Accessories,37,945.29
+179,Speaker,Electronics,7,469.99
+180,Watch,Accessories,81,188.27
+181,Backpack,Clothing,20,44.64
+182,Vase,Electronics,8,22.09
+183,Jacket,Household,57,369.14
+184,USB Cable,Accessories,44,371.59
+185,USB Cable,Clothing,50,471.25
+186,Smartwatch,Electronics,5,393.33
+187,Necklace,Household,62,658.76
+188,Shoes,Household,60,236.27
+189,Wallet,Electronics,44,794.53
+190,Handbag,Accessories,58,176.27
+191,USB Cable,Accessories,59,395.96
+192,Shirt,Clothing,66,99.67
+193,Camera,Electronics,8,934.80
+194,Socks,Household,99,213.09
+195,Blanket,Accessories,65,924.01
+196,Hard Drive,Accessories,73,40.58
+197,Camera,Clothing,18,108.00
+198,Game Console,Clothing,25,463.62
+199,Curtains,Accessories,84,634.83
+200,Smartphone,Electronics,87,884.05
+201,Clock,Clothing,26,987.90
+202,Umbrella,Accessories,100,548.50
+203,Watch,Household,50,87.57
+204,USB Cable,Electronics,16,614.75
+205,Power Bank,Accessories,39,181.59
+206,Sunglasses,Accessories,56,995.22
+207,Jacket,Electronics,69,900.92
+208,Pants,Accessories,48,255.21
+209,Monitor,Clothing,96,315.14
+210,Wallet,Clothing,5,817.45
+211,Headphones,Household,94,58.82
+212,Shoes,Accessories,35,473.39
+213,Smartphone,Accessories,42,864.15
+214,Bookshelf,Household,18,369.75
+215,Pillow,Household,17,687.54
+216,Wallet,Household,63,389.12
+217,Jacket,Clothing,4,321.13
+218,Keyboard,Accessories,33,472.04
+219,Fan,Accessories,65,12.83
+220,Sunglasses,Clothing,9,435.44
+221,Jacket,Household,74,816.77
+222,Charger,Electronics,17,54.51
+223,Towel,Clothing,57,266.13
+224,Curtains,Electronics,39,481.80
+225,Wallet,Household,1,623.21
+226,Backpack,Accessories,40,698.11
+227,Gloves,Clothing,7,345.10
+228,Gloves,Electronics,49,349.83
+229,Lamp,Accessories,77,293.62
+230,Pants,Electronics,79,557.20
+231,USB Cable,Household,38,255.48
+232,Mouse,Clothing,3,39.80
+233,Cushion,Clothing,2,532.40
+234,Pillow,Electronics,9,69.66
+235,Suitcase,Household,10,865.47
+236,Suitcase,Household,65,451.81
+237,Printer,Electronics,41,256.22
+238,Hat,Household,73,361.72
+239,Shirt,Accessories,23,531.20
+240,Socks,Accessories,71,725.34
+241,Router,Electronics,42,975.99
+242,Pillow,Electronics,52,315.70
+243,Ring,Electronics,18,331.15
+244,Flash Drive,Clothing,99,957.90
+245,Power Bank,Accessories,67,398.18
+246,Smartphone,Electronics,74,321.01
+247,Router,Accessories,45,249.92
+248,USB Cable,Accessories,68,497.21
+249,Smartphone,Electronics,23,570.12
+250,Cushion,Accessories,80,904.75
+251,Bracelet,Household,31,838.09
+252,Towel,Electronics,73,62.76
+253,Jacket,Accessories,22,552.68
+254,Sunglasses,Accessories,12,825.98
+255,Lamp,Accessories,60,947.29
+256,Memory Card,Accessories,8,47.33
+257,Shoes,Electronics,54,336.64
+258,Headphones,Electronics,6,106.17
+259,Rug,Clothing,71,789.89
+260,Fan,Clothing,58,713.57
+261,Ring,Clothing,6,882.17
+262,Scarf,Clothing,39,601.70
+263,Camera,Household,85,134.52
+264,Vase,Household,75,947.89
+265,Pillow,Accessories,86,876.12
+266,Pants,Clothing,92,548.22
+267,Ring,Electronics,59,144.95
+268,Television,Clothing,42,405.34
+269,Memory Card,Accessories,34,207.16
+270,Sunglasses,Accessories,40,420.56
+271,Cushion,Household,84,565.44
+272,Umbrella,Accessories,39,495.34
+273,Camera,Clothing,58,657.49
+274,Power Bank,Accessories,90,58.93
+275,Memory Card,Clothing,76,405.31
+276,Laptop,Electronics,98,765.20
+277,Rug,Accessories,92,820.88
+278,Jacket,Clothing,87,366.88
+279,Gloves,Household,21,374.22
+280,Watch,Household,12,965.00
+281,Printer,Household,57,464.48
+282,Fan,Clothing,31,749.12
+283,Ring,Clothing,27,354.52
+284,Rug,Accessories,96,874.27
+285,Smartwatch,Household,86,156.58
+286,Necklace,Accessories,24,538.33
+287,Mouse,Clothing,72,593.71
+288,Charger,Electronics,52,873.87
+289,Necklace,Accessories,93,950.48
+290,Pants,Household,1,875.59
+291,Monitor,Accessories,83,877.09
+292,Game Console,Clothing,43,112.70
+293,Backpack,Accessories,36,726.23
+294,Keyboard,Clothing,77,226.78
+295,Handbag,Clothing,38,154.79
+296,Wallet,Accessories,88,889.14
+297,Towel,Clothing,23,695.52
+298,Necklace,Household,72,8.26
+299,USB Cable,Clothing,87,298.51
+300,Vase,Household,64,806.54
+301,Shoes,Accessories,78,832.51
+302,Smartwatch,Electronics,81,684.74
+303,Chair,Electronics,20,339.62
+304,Printer,Accessories,97,216.48
+305,Necklace,Electronics,38,132.88
+306,Headphones,Accessories,99,416.34
+307,Mouse,Clothing,71,572.49
+308,Curtains,Accessories,86,104.67
+309,Vase,Accessories,80,669.85
+310,Headphones,Clothing,22,553.23
+311,Camera,Household,96,814.68
+312,Cushion,Clothing,79,654.41
+313,Scarf,Household,37,217.66
+314,Fan,Accessories,55,386.63
+315,Sunglasses,Electronics,14,311.23
+316,Watch,Electronics,75,319.44
+317,Speaker,Electronics,30,576.22
+318,Table,Accessories,92,902.78
+319,Backpack,Electronics,89,804.21
+320,Vase,Household,40,9.91
+321,Rug,Electronics,100,745.82
+322,Hard Drive,Electronics,40,391.03
+323,Bookshelf,Clothing,78,104.24
+324,Shirt,Clothing,28,426.86
+325,Gloves,Electronics,48,373.83
+326,Charger,Accessories,12,621.76
+327,Monitor,Electronics,85,680.47
+328,Pants,Accessories,50,235.78
+329,Towel,Electronics,43,799.55
+330,Smartwatch,Household,27,630.88
+331,Scarf,Accessories,68,803.34
+332,Bookshelf,Electronics,52,540.18
+333,Socks,Clothing,80,945.06
+334,Wallet,Electronics,53,574.45
+335,Camera,Household,38,244.24
+336,Handbag,Clothing,44,470.97
+337,Gloves,Household,28,893.37
+338,USB Cable,Accessories,50,502.00
+339,Wallet,Electronics,23,463.50
+340,Earrings,Household,52,945.10
+341,Belt,Electronics,16,429.12
+342,Fan,Accessories,65,546.11
+343,Earrings,Clothing,83,247.39
+344,Wallet,Household,49,143.29
+345,Power Bank,Household,23,25.50
+346,Lamp,Accessories,46,947.73
+347,Backpack,Household,42,423.70
+348,Cushion,Accessories,16,715.57
+349,Speaker,Electronics,71,695.48
+350,Speaker,Clothing,85,493.30
+351,Laptop,Accessories,34,268.85
+352,Speaker,Clothing,76,427.09
+353,Handbag,Electronics,5,999.80
+354,Handbag,Clothing,21,495.61
+355,Memory Card,Accessories,80,586.68
+356,Mouse,Household,89,16.15
+357,Smartwatch,Accessories,73,51.89
+358,Scarf,Accessories,100,24.87
+359,Tablet,Electronics,34,896.21
+360,Wallet,Accessories,24,639.04
+361,Earrings,Clothing,28,76.47
+362,Hat,Electronics,83,9.44
+363,Hard Drive,Electronics,54,313.37
+364,Television,Electronics,85,939.79
+365,USB Cable,Accessories,73,477.77
+366,Lamp,Clothing,87,352.55
+367,Ring,Accessories,55,287.09
+368,Smartwatch,Household,93,601.13
+369,Blanket,Electronics,67,232.64
+370,Shirt,Household,45,829.57
+371,Belt,Household,81,485.06
+372,Fan,Household,61,129.61
+373,Jacket,Electronics,72,37.98
+374,Pants,Electronics,60,169.77
+375,Monitor,Clothing,79,588.02
+376,Hard Drive,Accessories,81,602.60
+377,Charger,Accessories,43,69.65
+378,Vase,Household,5,22.26
+379,Mouse,Electronics,1,205.63
+380,Pants,Electronics,57,488.75
+381,Flash Drive,Household,12,527.67
+382,Keyboard,Household,98,43.36
+383,Suitcase,Household,12,372.78
+384,Printer,Electronics,16,351.41
+385,Cushion,Clothing,74,689.27
+386,Jacket,Clothing,51,913.14
+387,Suitcase,Clothing,42,316.16
+388,Clock,Electronics,30,994.24
+389,Speaker,Household,20,825.44
+390,Hard Drive,Household,6,935.00
+391,Gloves,Accessories,32,228.29
+392,Table,Accessories,3,220.77
+393,Handbag,Household,28,678.95
+394,Smartphone,Household,38,940.04
+395,Umbrella,Household,87,375.85
+396,Smartwatch,Household,26,999.22
+397,Ring,Accessories,68,890.06
+398,Shirt,Electronics,96,407.68
+399,Shoes,Accessories,8,863.05
+400,Necklace,Electronics,40,167.60
+401,Wallet,Electronics,14,694.61
+402,Socks,Accessories,78,127.10
+403,Bracelet,Accessories,15,25.66
+404,USB Cable,Accessories,4,431.97
+405,Umbrella,Household,35,825.60
+406,Earrings,Electronics,98,917.30
+407,Jacket,Electronics,17,641.47
+408,Shirt,Clothing,48,927.36
+409,Towel,Household,2,9.33
+410,Bookshelf,Household,43,154.91
+411,Jacket,Accessories,66,695.27
+412,Belt,Electronics,45,981.05
+413,Sunglasses,Electronics,2,959.78
+414,Cushion,Household,51,340.39
+415,Camera,Electronics,27,257.01
+416,Socks,Household,55,473.35
+417,Shoes,Accessories,94,807.67
+418,Wallet,Electronics,41,80.62
+419,Scarf,Accessories,71,438.93
+420,Backpack,Accessories,27,692.85
+421,Earrings,Accessories,92,432.57
+422,Earrings,Household,65,546.20
+423,Mirror,Household,49,347.83
+424,Sunglasses,Accessories,75,268.84
+425,Pillow,Clothing,81,947.43
+426,USB Cable,Electronics,94,247.10
+427,Speaker,Electronics,29,292.44
+428,Power Bank,Electronics,33,400.67
+429,Wallet,Accessories,14,374.89
+430,Table,Accessories,7,385.02
+431,Television,Accessories,66,230.92
+432,Pillow,Electronics,65,536.39
+433,Flash Drive,Electronics,47,384.51
+434,Power Bank,Household,67,812.08
+435,Suitcase,Household,67,930.92
+436,Game Console,Household,13,54.27
+437,Monitor,Accessories,73,371.43
+438,Fan,Accessories,79,933.96
+439,Printer,Household,8,583.60
+440,Ring,Household,97,621.58
+441,Towel,Household,6,461.30
+442,Towel,Household,26,625.93
+443,Shirt,Electronics,90,576.32
+444,Backpack,Accessories,76,324.29
+445,Keyboard,Clothing,29,547.37
+446,USB Cable,Electronics,45,217.86
+447,Mouse,Household,63,836.30
+448,USB Cable,Electronics,6,536.88
+449,Sunglasses,Household,77,795.30
+450,Necklace,Household,52,890.76
+451,Charger,Household,87,53.41
+452,Blanket,Clothing,97,817.69
+453,Necklace,Household,74,295.27
+454,Bracelet,Clothing,89,904.84
+455,Chair,Clothing,95,256.07
+456,Table,Household,3,936.55
+457,Rug,Clothing,34,571.77
+458,Mouse,Accessories,20,144.07
+459,Hard Drive,Clothing,43,624.90
+460,Umbrella,Accessories,22,859.01
+461,Charger,Clothing,78,366.56
+462,Blanket,Electronics,4,664.71
+463,Flash Drive,Household,52,197.33
+464,Pants,Accessories,19,94.85
+465,Jacket,Accessories,97,643.24
+466,Keyboard,Electronics,70,626.58
+467,Curtains,Household,85,748.52
+468,Monitor,Accessories,20,66.11
+469,Camera,Accessories,63,791.29
+470,Shirt,Accessories,52,973.09
+471,Clock,Accessories,15,774.97
+472,Smartwatch,Electronics,42,937.12
+473,Keyboard,Accessories,92,968.20
+474,Speaker,Household,25,16.93
+475,Rug,Accessories,100,193.32
+476,Charger,Household,2,880.08
+477,Curtains,Clothing,12,860.34
+478,Shirt,Clothing,19,145.05
+479,Lamp,Electronics,40,274.04
+480,Wallet,Clothing,80,807.39
+481,Handbag,Household,94,582.77
+482,Shoes,Accessories,53,844.76
+483,Table,Household,3,27.32
+484,Monitor,Household,70,795.76
+485,Scarf,Household,69,205.92
+486,Power Bank,Clothing,99,289.35
+487,Game Console,Household,86,951.55
+488,Rug,Accessories,28,445.92
+489,Keyboard,Household,94,491.20
+490,Memory Card,Accessories,64,629.40
+491,Mirror,Household,50,845.24
+492,Laptop,Household,23,282.65
+493,Power Bank,Clothing,25,849.37
+494,Charger,Accessories,64,687.95
+495,Pants,Accessories,20,507.60
+496,Keyboard,Accessories,35,596.56
+497,Gloves,Accessories,56,584.99
+498,Television,Clothing,60,932.58
+499,Handbag,Household,55,242.59
+500,Mouse,Electronics,77,285.03
+501,Chinelo,Clothing,55,5.50
+502,Asus VivoBook Laptop,Electronics,23,756.00
+503,Mouse Pad,Electronics,125,2.50
+504,Mouse Pad,Electronics,256,5.50
+505,HP Inspiron 4000,Electronics,65,850.00
+506,HP Inspiron 5000,Electronics,100,1200.00
+507,Plastic Bowl,Household,258,3.50
+508,Aluminium Tray,Household,55,5.48
+509,Plastic Jar,Household,35,2.35
+510,Pillow Soft,Household,45,13.00
+511,Pillow Hard,Household,35,13.00
