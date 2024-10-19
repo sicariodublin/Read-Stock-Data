@@ -1,17 +1,3 @@
-/*
-TABA
-
-Student Name: Fabio A. Steyer
-Student ID: 22132848
-Programme: Higher Diploma in Science in Computing Information (Software Development)
-Year of Study: 2024
-Module Title: Algorithms and Advanced Programming
-Lecturer: Anshu Shahdeo
-Project/Essay Title: TABA
-Submission Deadline: Saturday, 18, May 2024, 11:59pm
-*/
-
-
 import java.io.*;
 import java.util.*;
 
